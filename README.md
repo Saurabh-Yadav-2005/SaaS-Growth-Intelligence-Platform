@@ -1,6 +1,6 @@
-# 🚀 SaaS Growth Intelligence Platform
+#  SaaS Growth Intelligence Platform
 
-![Dashboard](assets/dashboard.png)
+[Dashboard](assets)
 
 A full-stack data analytics project that predicts customer churn and forecasts SaaS revenue using machine learning and Power BI.
 
@@ -8,7 +8,7 @@ A full-stack data analytics project that predicts customer churn and forecasts S
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes **RavenStack**, a fictional SaaS startup, using multiple datasets including:
 
@@ -27,7 +27,7 @@ This project analyzes **RavenStack**, a fictional SaaS startup, using multiple d
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```id="w7b4fj"
 Raw CSV Data
@@ -43,7 +43,7 @@ Power BI Dashboard
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```id="6l2pj9"
 SaaS-Growth-Intelligence-Platform/
@@ -78,7 +78,7 @@ SaaS-Growth-Intelligence-Platform/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -107,11 +107,11 @@ powerbi/SaaS Growth Intelligence.pbix
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
-![Overview](assets/dashboard.png)
-![Churn Analysis](assets/churn.png)
-![Forecast](assets/forecast.png)
+![Overview](assets/page1_overview.png)
+![Churn Analysis](assets/page2_churn_risk.png)
+![Forecast](assets/page3_forecast.png)
 
 ---
 
@@ -125,7 +125,7 @@ powerbi/SaaS Growth Intelligence.pbix
 
 ---
 
-## 🤖 Machine Learning
+##  Machine Learning
 
 ### Churn Prediction
 
@@ -141,7 +141,7 @@ powerbi/SaaS Growth Intelligence.pbix
 
 ---
 
-## 💼 Business Impact
+##  Business Impact
 
 * Identifies high-risk customers before churn
 * Enables proactive retention strategies
@@ -150,7 +150,7 @@ powerbi/SaaS Growth Intelligence.pbix
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * Basic plan customers have the highest churn rate
 * Pricing is the most common churn reason
@@ -159,7 +159,7 @@ powerbi/SaaS Growth Intelligence.pbix
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 * End-to-end data pipeline design
 * Feature engineering across relational datasets
@@ -168,7 +168,7 @@ powerbi/SaaS Growth Intelligence.pbix
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category         | Tools                 |
 | ---------------- | --------------------- |
@@ -182,14 +182,14 @@ powerbi/SaaS Growth Intelligence.pbix
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 Dataset: RavenStack Synthetic SaaS Dataset
 Source: https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset
 
 ---
 
-## 👤 Author
+##  Author
 
 **Saurabh Yadav**
 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
