@@ -67,9 +67,9 @@ SaaS-Growth-Intelligence-Platform/
 │   └── SaaS Growth Intelligence.pbix
 │
 ├── assets/
-│   ├── dashboard.png
-│   ├── churn.png
-│   └── forecast.png
+│   ├── page1_overview.png
+│   ├── page2_churn_risk.png
+│   └── page3_forecast.png
 │
 ├── requirements.txt
 ├── .gitignore
